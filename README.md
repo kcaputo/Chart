@@ -1,5 +1,4 @@
 
-	<body>
 
 <h1>Behind the Scenes</h1>
 <h3>How "Are Income and Crime Related" was made</h3>
