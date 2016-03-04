@@ -3,8 +3,7 @@
 
 <h1>Behind the Scenes</h1>
 <h3>How "Are Income and Crime Related" was made</h3>
-	<br>
-	I got the data for the story at https://maps.nyc.gov/crime/ and http://www.psc.isr.umich.edu/dis/census/Features/tract2zip/
+I got the data for the story at https://maps.nyc.gov/crime/ and http://www.psc.isr.umich.edu/dis/census/Features/tract2zip/
 <br>
 On the crime map, I looked through the data to find the 15 neighborhoods with highest crime rates, then cleaned up the data and put it into an Excel spreadsheet.<br>
 For the census data, it took a bit longer. I had to find these 15 neighborhoods, clean up the data, and erase everything that wasn't the median income.
