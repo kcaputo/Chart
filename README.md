@@ -1,36 +1,9 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Are Income and Crime Rates Related?</title>
-		<style type="text/css">
-			body {
-				width: 750px;
-				font-family: Arial, Verdana, sans-serif;
-				color: #665544;}
-			h1 {
-				width: 750px;
-				font-family: Arial, Verdana, sans-serif;
-				color: #254117;}
-			p {width: 750px;
-				font-family: Arial, Verdana, sans-serif;
-				color: #2C3539;}
-			h2 {width: 750px;
-				font-family: Georgia, Verdana, sans-serif;
-				color: #2C3539;}
-				h3 {width: 750px;
-				font-family: Arial, Verdana, sans-serif;;
-				color: #2C3539;}
-				h4 {width: 750px;
-				font-family: Georgia, Verdana, sans-serif;
-				font-size: 10px;
-				color: #2C3539;}
-		</style>
-	</head>
+
 	<body>
 
 <h1>Behind the Scenes</h1>
 <h3>How "Are Income and Crime Related" was made</h3>
-	<br><p>
+	<br>
 	I got the data for the story at https://maps.nyc.gov/crime/ and http://www.psc.isr.umich.edu/dis/census/Features/tract2zip/
 <br>
 On the crime map, I looked through the data to find the 15 neighborhoods with highest crime rates, then cleaned up the data and put it into an Excel spreadsheet.<br>
